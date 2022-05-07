@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am pretty cool
 -->
 
-#### What I've Learned
+#### 📖: What I've Learned
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
