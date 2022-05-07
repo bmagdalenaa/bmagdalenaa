@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 📫 Linkedin: www.linkedin.com/in/belen-delgado
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am pretty cool
+
+atom, figma, 
 -->
 
 #### 📖: What I've Learned
@@ -25,3 +27,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
+#### What I can use:
+
+<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/>
+ canva, visual studio, visual studio code, sublime
