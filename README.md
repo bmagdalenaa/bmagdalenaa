@@ -1,9 +1,9 @@
 ## Hello my name is Belen! 👋
 
-🌱 I am a student at Red River College taking BIT.
-📫 Linkedin: www.linkedin.com/in/belen-delgado
-😄 Pronouns: She/Her
-⚡ Fun fact: I am pretty cool
+- 🌱 I am a student at Red River College taking BIT.
+- 📫 Linkedin: www.linkedin.com/in/belen-delgado
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am pretty cool
 
 <!--
 **bmagdalenaa/bmagdalenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📫 Linkedin: www.linkedin.com/in/belen-delgado
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am pretty cool
+canva, visual studio, visual studio code   atom, figma,
 
-atom, figma, 
 -->
 
 #### 📖: What I've Learned
@@ -31,4 +31,6 @@ atom, figma,
 #### What I can use:
 
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/>
- canva, visual studio, visual studio code, sublime
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmagdalenaa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
