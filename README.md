@@ -1,4 +1,4 @@
-## Hello my name is Belen! 👋
+## Hello, my name is Belen! 👋
 
 - 🌱 I am a student at Red River College taking BIT.
 - 📫 Linkedin: www.linkedin.com/in/belen-delgado
