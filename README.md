@@ -3,7 +3,6 @@
 - 🌱 I am a student at Red River College taking BIT.
 - 📫 Linkedin: www.linkedin.com/in/belen-delgado
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am pretty cool
 
 <!--
 **bmagdalenaa/bmagdalenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
