@@ -1,21 +1,16 @@
 ## Hello, my name is Belen! 👋
 
-- 🌱 I am a student at Red River College taking BIT.
+- 🌱 I am a student taking Business Information Technology.
+- - 🔭 I’m currently working on PHP and React.
 - 📫 Linkedin: www.linkedin.com/in/belen-delgado
 - 😄 Pronouns: She/Her
 
 <!--
 **bmagdalenaa/bmagdalenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I am a student at Red River College taking BIT.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Linkedin: www.linkedin.com/in/belen-delgado
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am pretty cool
 canva, visual studio, visual studio code   atom, figma,
 
