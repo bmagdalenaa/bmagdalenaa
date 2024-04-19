@@ -1,7 +1,7 @@
 ## Hello, my name is Belen! 👋
 
-- 🌱 I am a student taking Business Information Technology.
-- 🔭 I’m currently working on PHP and React.
+- 🌱 Graduated from Business Information Technology December 2023.
+- 🔭 I’m currently working on Python and React projects.
 - 📫 Linkedin: www.linkedin.com/in/belen-delgado
 - 😄 Pronouns: She/Her
 
@@ -16,7 +16,7 @@ canva, visual studio, visual studio code   atom, figma,
 
 -->
 
-#### 📖 What I've Learned
+#### 📖 What i've learned
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=CSS Wizardry&logoColor=white"/>
 
